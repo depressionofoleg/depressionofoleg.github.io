@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Thin.eot');
+    src: url('Montserrat-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Thin.woff2') format('woff2'),
+        url('Montserrat-Thin.woff') format('woff'),
+        url('Montserrat-Thin.ttf') format('truetype'),
+        url('Montserrat-Thin.svg#Montserrat-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('ArialMT.eot');
+    src: url('ArialMT.eot?#iefix') format('embedded-opentype'),
+        url('ArialMT.woff2') format('woff2'),
+        url('ArialMT.woff') format('woff'),
+        url('ArialMT.ttf') format('truetype'),
+        url('ArialMT.svg#ArialMT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Parangon 530C';
+    src: url('Parangon530C.eot');
+    src: url('Parangon530C.eot?#iefix') format('embedded-opentype'),
+        url('Parangon530C.woff2') format('woff2'),
+        url('Parangon530C.woff') format('woff'),
+        url('Parangon530C.ttf') format('truetype'),
+        url('Parangon530C.svg#Parangon530C') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
